@@ -4,7 +4,7 @@
 I am an incoming freshman at the University of Southern California where I will be pursuing my Bachelor’s degree in astronautical engineering. I was a member of Project Lead the Way throughout high school where I learned basic physics and engineering concepts and documented group project work. I am looking to further my engineering, documentation, and collaborative skills.
 
 
-## Aerospace Engineering Projects
+## ✈️ Aerospace Engineering Projects
 
 ### Balsa Wood Glider
 I worked with one other student to design a Balsa wood glider that consists of a fuselage, wings, and a horizontal and vertical stabilizer. We drew separate designs and compared them during our group discussion, coming to a consensus on our final design. We simulated our glider in Aery32, changing the dimensions of each component until the glider had the ability to fly. Measuring and cutting each part on a strip of Balsa wood, we constructed the glider and performed 6 flight tests. Our glider flew, but we came to the conclusion that the wings could be reshaped and nose mass decreased in order to improve flight performance.
@@ -20,7 +20,7 @@ I worked with another student to redesign an airfoil for a Zlín Z 42 aircraft. 
 type="application/pdf">
 
 
-## Digital Electronics Projects
+## 💡 Digital Electronics Projects
 
 ### Seatbelt Circuit
 I worked in a group with three other students to design a circuit for a seatbelt alarm that would take the inputs of three variables: the door, ignition, and seatbelt clip. We created a truth table to demonstrate the alarm turning on when the door is closed, ignition is on, and seatbelt clip is not buckled. I drew a schematic sketch of the circuit and tested the schematic using Multisim, producing the correct output that matched our Boolean expression. We then worked to build the circuit on a myDAQ board using an inverter and AND logic chip. After solving the problem of not powering and grounding our chips, we expected our circuit to function the same as our simulation, triggering the seatbelt alarm when the door is closed, ignition is on, and seatbelt clip is not buckled. We weren’t given enough time to test the built circuit, but we discussed improvements to add if the project were to be worked again, such as another variable to detect weight in the seat.
