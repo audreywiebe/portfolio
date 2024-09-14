@@ -1,7 +1,7 @@
 [🔗  LinkedIn](https://www.linkedin.com/in/audreywiebe/)  | [📄 Resume](https://audreywiebe.github.io/portfolio/assets/Audrey%20Wiebe%20Resume.pdf) | [📧 audreycwiebe@gmail.com](mailto:audreycwiebe@gmail.com)
 
 ## About
-I am an incoming freshman at the University of Southern California where I will be pursuing my Bachelor’s degree in astronautical engineering. I was a member of Project Lead the Way throughout high school where I learned basic physics and engineering concepts and documented group project work. I am looking to further my engineering, documentation, and collaborative skills.
+I am a freshman at the University of Southern California where I am pursuing my Bachelor’s degree in astronautical engineering. I was a member of Project Lead the Way throughout high school where I learned basic physics and engineering concepts and documented group project work. I am looking to further my engineering, documentation, and collaborative skills.
 
 
 ## ✈️ Aerospace Engineering Projects
