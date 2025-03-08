@@ -1,7 +1,14 @@
-[🔗  LinkedIn](https://www.linkedin.com/in/audreywiebe/)  | [📄 Resume](https://audreywiebe.github.io/portfolio/assets/Wiebe_Audrey_Resume.pdf) | [📧 audreycwiebe@gmail.com](mailto:audreycwiebe@gmail.com) | [📧 awiebe@usc.edu](mailto:awiebe@usc.edu)
+[💻 Github](https://www.github.com/audreywiebe) | [🔗  LinkedIn](https://www.linkedin.com/in/audreywiebe/) | [📄 Resume](https://audreywiebe.github.io/portfolio/assets/Wiebe_Audrey_Resume.pdf)
+
+[📧 audreycwiebe@gmail.com](mailto:audreycwiebe@gmail.com) | [📧 awiebe@usc.edu](mailto:awiebe@usc.edu)
 
 ## About
-I am a freshman at the University of Southern California pursuing my Bachelor’s degree in astronautical engineering. I was a member of Project Lead the Way throughout high school where I learned basic physics and engineering concepts and documented group project work. I am looking to further my engineering, documentation, and collaborative skills.
+Hello! I am a freshman at the University of Southern California pursuing my Bachelor’s degree in astronautical engineering. I am looking to further my engineering, documentation, and collaborative skills through opportunities within the aerospace industry.
+
+## 🛰️ Boeing Design Challenge
+Working with three other undergraduate students, we developed a mission concept for an asteroid sample return mission. Based on competitive scoring by Boeing engineers, we placed third in the design challenge.
+
+
 
 
 ## ✈️ Aerospace Engineering Projects
