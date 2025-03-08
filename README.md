@@ -8,7 +8,8 @@ Hello! I am a freshman at the University of Southern California pursuing my Bach
 ## 🛰️ Boeing Design Challenge
 Working with three other undergraduate students, we developed a mission concept for an asteroid sample return mission. Based on competitive scoring by Boeing engineers, we placed third in the design challenge.
 
-
+<embed src="https://audreywiebe.github.io/portfolio/assets/Boeing_Design_Challenge.pdf" width="600" height="400"
+type="application/pdf"
 
 
 ## ✈️ Aerospace Engineering Projects
