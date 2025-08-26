@@ -9,6 +9,9 @@ Hello! I am a sophomore at the University of Southern California pursuing my Bac
 ## 📡 Wireless IoT Communication
 Throughout my Research and Development Engineering Internship at Rain for Rent, I researched the capabilities of wireless technologies, notably Bluetooth Low Energy (BLE) and LoRaWAN communication protocols. I coordinated meetings with over 10 IoT device companies to discuss wireless sensors and gateways applicable to Rain for Rent's pumps and tanks. I successfully deployed a wireless pump and tank monitoring system including radar level sensors, pulse counters to read water flow, pressure sensors, and 2 solar-powered gateways. With the development of an internal application server, I sent all sensor data to our server via API integrations. I concluded with a comprehensive presentation to a team of 7 engineering managers, receiving public speaking feedback and an interest in Rain for Rent moving forward with wireless communication.
 
+<embed src="https://audreywiebe.github.io/portfolio/assets/Wireless IoT Communication.pdf" width="800" height="500"
+type="application/pdf">
+
 
 
 ## 🛰️ Boeing Design Challenge
