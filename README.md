@@ -3,7 +3,13 @@
 [📧 audreycwiebe@gmail.com](mailto:audreycwiebe@gmail.com) | [📧 awiebe@usc.edu](mailto:awiebe@usc.edu)
 
 ## About
-Hello! I am a freshman at the University of Southern California pursuing my Bachelor’s degree in astronautical engineering. I am looking to further my engineering, documentation, and collaborative skills through opportunities within the aerospace industry.
+Hello! I am a sophomore at the University of Southern California pursuing my Bachelor’s degree in astronautical engineering with a minor in Entrepreneurship in the Marshall School of Business. I am looking to further my engineering, documentation, and collaborative skills through opportunities within the aerospace industry.
+
+
+## 📡 Wireless IoT Communication
+Throughout my Research and Development Engineering Internship at Rain for Rent, I researched the capabilities of wireless technologies, notably Bluetooth Low Energy (BLE) and LoRaWAN communication protocols. I coordinated meetings with over 10 IoT device companies to discuss wireless sensors and gateways applicable to Rain for Rent's pumps and tanks. I successfully deployed a wireless pump and tank monitoring system including radar level sensors, pulse counters to read water flow, pressure sensors, and 2 solar-powered gateways. With the development of an internal application server, I sent all sensor data to our server via API integrations. I concluded with a comprehensive presentation to a team of 7 engineering managers, receiving public speaking feedback and an interest in Rain for Rent moving forward with wireless communication.
+
+
 
 ## 🛰️ Boeing Design Challenge
 Collaborating with three other undergraduate students, I developed a mission concept for an asteroid sample return mission. Based on competitive scoring by Boeing engineers, we placed third in the design challenge.
