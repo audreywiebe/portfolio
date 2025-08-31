@@ -3,7 +3,7 @@
 [📧 audreycwiebe@gmail.com](mailto:audreycwiebe@gmail.com) | [📧 awiebe@usc.edu](mailto:awiebe@usc.edu)
 
 ## About
-Hello! I am a sophomore at the University of Southern California pursuing my Bachelor’s degree in astronautical engineering with a minor in Entrepreneurship in the Marshall School of Business. I am looking to further my engineering, documentation, and collaborative skills through opportunities within the aerospace industry.
+Hello! I am a sophomore at the University of Southern California's Viterbi School of Engineering pursuing my Bachelor’s degree in astronautical engineering with a minor in entrepreneurship at the Marshall School of Business. I am looking to further my engineering, documentation, and collaborative skills through opportunities within the aerospace industry.
 
 
 ## 📡 Wireless IoT Communication
