@@ -8,7 +8,6 @@ Hello! I am a sophomore at the University of Southern California's Viterbi Schoo
 ## 🚰 Aquarobi - Advancing Water Accessibility in Nairobi, Kenya
 I participated in the [2025 Grand Challenge Scholars Program Makeathon](https://viterbiundergrad.usc.edu/gcsp/programs/gcsp_makeathon/), collaborating with five other students to develop a hardware and software device to advance water testing in Nairobi, Kenya. Our solution consisted of a Bluetooth Low Energy capable water sensor and mobile app where users can read about and report areas and sellers in Nairobi with contaminated water. I managed the electronic development of the water sensor, using an Arduino microcontroller and C++ programming to develop a prototype capable of displaying four values (TDS, Turbidity, pH, and Phosphorus level) on an LCD display based off a glass testing probe.
 
-"https://audreywiebe.github.io/portfolio/assets/IMG_1476 3.mov"
 
 
 ## 📡 Wireless IoT Communication
