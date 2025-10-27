@@ -5,6 +5,9 @@
 ## About
 Hello! I am a sophomore at the University of Southern California's Viterbi School of Engineering pursuing my Bachelor’s degree in astronautical engineering with a minor in entrepreneurship at the Marshall School of Business. I am looking to further my engineering, documentation, and collaborative skills through opportunities within the aerospace industry.
 
+## 🚰 Aquarobi - Advancing Water Accessibility in Nairobi, Kenya
+I participated in the 2025 Grand Challenge Scholars Program Makeathon, collaborating with five other students to develop a hardware and software device to advance water testing in Nairobi, Kenya. Our solution consisted of a Bluetooth Low Energy capable water sensor and mobile app where users can read about and report areas and sellers in Nairobi with contaminated water. I managed the electronic development of the water sensor, using an Arduino microcontroller and C++ programming to develop a prototype capable of displaying four values (TDS, Turbidity, pH, and Phosphorus level) on an LCD display based off a glass testing probe.
+
 
 ## 📡 Wireless IoT Communication
 Throughout my Research and Development Engineering Internship at Rain for Rent, I researched the capabilities of wireless technologies, notably Bluetooth Low Energy (BLE) and LoRaWAN communication protocols. I coordinated meetings with over 10 IoT device companies to discuss wireless sensors and gateways applicable to Rain for Rent's pumps and tanks. I successfully deployed a wireless pump and tank monitoring system including radar level sensors, pulse counters to read water flow, pressure sensors, and 2 solar-powered gateways. With the development of an internal application server, I sent all sensor data to our server via API integrations. I concluded with a comprehensive presentation to a team of 7 engineering managers, receiving public speaking feedback and an interest in Rain for Rent moving forward with wireless communication.
