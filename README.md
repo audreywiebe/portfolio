@@ -8,8 +8,6 @@ Hello! I am a sophomore at the University of Southern California's Viterbi Schoo
 ## 🚰 Aquarobi - Advancing Water Accessibility in Nairobi, Kenya
 I participated in the [2025 Grand Challenge Scholars Program Makeathon](https://viterbiundergrad.usc.edu/gcsp/programs/gcsp_makeathon/), collaborating with five other students to develop a hardware and software device to advance water testing in Nairobi, Kenya. Our solution consisted of a Bluetooth Low Energy capable water sensor and mobile app where users can read about and report areas and sellers in Nairobi with contaminated water. I managed the electronic development of the water sensor, using an Arduino microcontroller and C++ programming to develop a prototype capable of displaying four values (TDS, Turbidity, pH, and Phosphorus level) on an LCD display based off a glass testing probe.
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/slides/GDTVEY52zKnZP6VK2fRaXO/GCSP-Makeathon?node-id=1-507&embed-host=share" allowfullscreen></iframe>
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9_bmB7vkaqK7mzTiIeH-6M1G0Uk7nQ7ECkz6XnNWk9dXwOPiTcresLTlxdNLC8KbSLvvtyJF20Qxa/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## 📡 Wireless IoT Communication
