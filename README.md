@@ -10,6 +10,8 @@ I participated in the [2025 Grand Challenge Scholars Program Makeathon](https://
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/slides/GDTVEY52zKnZP6VK2fRaXO/GCSP-Makeathon?node-id=1-507&embed-host=share" allowfullscreen></iframe>
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9_bmB7vkaqK7mzTiIeH-6M1G0Uk7nQ7ECkz6XnNWk9dXwOPiTcresLTlxdNLC8KbSLvvtyJF20Qxa/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## 📡 Wireless IoT Communication
 Throughout my Research and Development Engineering Internship at Rain for Rent, I researched the capabilities of wireless technologies, notably Bluetooth Low Energy (BLE) and LoRaWAN communication protocols. I coordinated meetings with over 10 IoT device companies to discuss wireless sensors and gateways applicable to Rain for Rent's pumps and tanks. I successfully deployed a wireless pump and tank monitoring system including radar level sensors, pulse counters to read water flow, pressure sensors, and 2 solar-powered gateways. With the development of an internal application server, I sent all sensor data to our server via API integrations. I concluded with a comprehensive presentation to a team of 7 engineering managers, receiving public speaking feedback and an interest in Rain for Rent moving forward with wireless communication.
 
