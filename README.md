@@ -3,7 +3,7 @@
 [📧 audreycwiebe@gmail.com](mailto:audreycwiebe@gmail.com) | [📧 awiebe@usc.edu](mailto:awiebe@usc.edu)
 
 ## About
-Hello! I am a sophomore at the University of Southern California's Viterbi School of Engineering pursuing my Bachelor’s degree in Mechanical engineering with a minor in Connected Devices and Making at USC's School of Technology and Applied Computing. I am looking to further my engineering, documentation, and collaborative skills through opportunities within the aerospace industry.
+Hello! I am a sophomore at the University of Southern California's Viterbi School of Engineering pursuing my Bachelor’s degree in Mechanical Engineering with a minor in Connected Devices and Making at USC's School of Technology and Applied Computing. I am looking to further my engineering, documentation, and collaborative skills through opportunities within the aerospace industry.
 
 ## 🚰 Aquarobi - Advancing Water Accessibility in Nairobi, Kenya
 I participated in the [2025 Grand Challenge Scholars Program Makeathon](https://viterbiundergrad.usc.edu/gcsp/programs/gcsp_makeathon/), collaborating with five other students to develop a hardware and software device to advance water testing in Nairobi, Kenya. Our solution consisted of a Bluetooth Low Energy capable water sensor and mobile app where users can read about and report areas and sellers in Nairobi with contaminated water. I managed the electronic development of the water sensor, using an Arduino microcontroller and C++ programming to develop a prototype capable of displaying four values (TDS, Turbidity, pH, and Phosphorus level) on an LCD display based off a glass testing probe. We placed 1st out of 9 teams participating in the makeathon.
